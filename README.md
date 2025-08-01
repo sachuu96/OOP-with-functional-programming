@@ -1,5 +1,6 @@
 # OOP-with-functional-programming
 understand OOP concepts with functional programming
+
 run OOP.js -> `node OOP.js`
 
 run .ts file -> 
